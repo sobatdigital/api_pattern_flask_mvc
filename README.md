@@ -56,6 +56,7 @@ $ cd project_name
 $ virtualenv -p python3.6 env
 $ source env/bin/activate
 $ pip install -r requirements.txt
+$ cp .env.example .env
 $ python run.py
 
 Open postman and GET http://localhost:9001
