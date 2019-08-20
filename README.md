@@ -35,6 +35,7 @@ project_name/
 ........ library/
 ........ middleware/
 ........ model/
+........ views/
 ........ __init__.py
 ........ logger.py
 ........ route.py
