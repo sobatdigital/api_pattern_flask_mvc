@@ -3,7 +3,7 @@
 
 ## List Endpoint in Postman
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/345a7ab7629ff0dfca4d)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.getpostman.com/collections/483c8e75f7c16e19232b)
 
 ## Installing PYENV + PYENV VIRTUALENV
 
