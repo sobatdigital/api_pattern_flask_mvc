@@ -3,6 +3,7 @@ import logging
 from werkzeug.routing import PathConverter
 from flask_cors import CORS
 from app.library import dotenv
+from app.library import api_helper as Helper
 from app.controller.welcome_controller import WelcomeController
 
 CORS(app, supports_credentials=True, origins=dotenv.getString("ALLOW_ORIGIN"), send_wildcard=True)
